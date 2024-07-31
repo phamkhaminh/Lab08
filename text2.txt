@@ -1,2 +1,4 @@
 Hello Text 2
 Minh nè
+
+Test feature tạo branch mới và merge
